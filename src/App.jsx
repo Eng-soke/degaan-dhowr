@@ -1,7 +1,7 @@
 import React from "react"
 import Home from './pages/Home'
 import { Route, Routes } from 'react-router-dom'
-import Services from "./pages/services"
+import Services from "./pages/Services"
 function App() {
   return <div>
     
